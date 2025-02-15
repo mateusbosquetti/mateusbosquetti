@@ -1,12 +1,16 @@
-<h2 align="left">About Me</h2>
+<h1 align="left">Seja bem vindo!</h1>
 
 ###
 
-<p align="left">- Java Developer</p>
+<h2 align="left">📖 Sobre mim:</h2>
 
 ###
 
-<h2 align="left">Techs</h2>
+<p align="left">- 👀 Me chamo Mateus Henrique Bosquetti e tenho 18 anos.<br>- 🚀 Atualmente faço Aprendizagem Industrial de Programador de Sistemas de Informação na empresa WEG.<br>- 💻 Meu foco atualmente está sendo em aplicações Backend com JAVA e Springboot.<br>- 🎓 Sou técnico em Desenvolvimento de Sistemas pelo SESI SENAI.<br>- 🧱 Planejo ingressar na faculdade de Engenharia de Software.</p>
+
+###
+
+<h2 align="left">🤖 Tecnologias</h2>
 
 ###
 
@@ -54,7 +58,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📜 Status</h2>
 
 ###
 
