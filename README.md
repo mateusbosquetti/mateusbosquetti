@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👀 Me chamo Mateus Henrique Bosquetti e tenho 18 anos.<br>- 🚀 Atualmente faço Aprendizagem Industrial de Programador de Sistemas de Informação na empresa WEG.<br>- 💻 Meu foco atualmente está sendo em aplicações Backend com JAVA e Springboot.<br>- 🎓 Sou técnico em Desenvolvimento de Sistemas pelo SESI SENAI.<br>- 🧱 Planejo ingressar na faculdade de Engenharia de Software.</p>
+<p align="left">- 👀 Me chamo Mateus Henrique Bosquetti e tenho 18 anos.<br>- 🚀 Atualmente faço Aprendizagem Industrial de Programador de Sistemas de Informação na empresa WEG.<br>- 💻 Meu foco atualmente está sendo em aplicações Backend com JAVA e Springboot.<br>- 🎓 Sou formado e tenho técnico em Desenvolvimento de Sistemas pelo SESI SENAI.<br>- 🧱 Planejo ingressar na faculdade de Engenharia de Software.</p>
 
 ###
 
