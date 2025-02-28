@@ -63,10 +63,17 @@
 ###
 
 <div align="left">
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusbosquetti&" alt="mateusbosquetti" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=mateusbosquetti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusbosquetti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusbosquetti&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<h2 align="left">🏆 Troféus</h2>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusbosquetti" alt="mateusbosquetti" /></a> </p>
 
 ###
 
