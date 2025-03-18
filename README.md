@@ -61,7 +61,6 @@
 <h2 align="left">📜 Status</h2>
 
 <div align="left">
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusbosquetti&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
