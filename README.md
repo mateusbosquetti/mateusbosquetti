@@ -58,16 +58,17 @@
 
 ###
 
-<h2 align="left">📜 Status</h2>
+<!-- <h2 align="left">📜 Status</h2>
 
 <div align="left">
    
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateusbosquetti&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
  </div>
- 
+
+
 
 ###
-
+ -->
 <h2 align="left">🏆 Troféus</h2>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mateusbosquetti" alt="mateusbosquetti" /></a> </p>
