@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 👀 Me chamo Mateus Henrique Bosquetti e tenho 18 anos.<br>- 🚀 Atualmente atuo como desenvolvedor de software junior pela empresa WEG.<br>- 💻 Meu foco está sendo em aplicações fullstack utilizando as tecnologias Java Spring e NextJS.<br>- 🎓 Sou formado e tenho técnico em Desenvolvimento de Sistemas pelo SESI SENAI.<br>- 🧱 Estou cursando a faculdade de Engenharia de Software pela UNInter.</p>
+<p align="left">- 👀 Me chamo Mateus Henrique Bosquetti e tenho 19 anos.<br>- 🚀 Atualmente atuo como desenvolvedor backend pela empresa WEG.<br>- 💻 Meu foco está sendo em aplicações fullstack utilizando as tecnologias Java Spring e NextJS.<br>- 🎓 Sou formado e tenho técnico em Desenvolvimento de Sistemas pelo SESI SENAI.<br>- 🧱 Estou cursando a faculdade de Engenharia de Software pela UNInter.</p>
 
 ###
 
